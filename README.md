@@ -49,10 +49,10 @@ El proyecto completo (archivos Blender, Unity y scripts de simulación) se manti
 **Acceso al código:** disponible bajo solicitud.
 
 ---
-
 ## 📬 Contacto 
+gabrielce992@gmail.com
 
-Para acceder a la demo privada o detalles técnicos, contáctame en: [tu.email@ejemplo.com](mailto:tu.email@ejemplo.com)
+
 
 
 
